@@ -13,10 +13,10 @@ A simple and efficient to-do application built with Flutter. This app allows use
 * Backend: Flutter
 
 ## Usage
-1.Use the input field to add new tasks.
-2.View the list of tasks.
-3.Click on a task to mark it as completed.
-4.Delete tasks using the delete button.
+1. Use the input field to add new tasks.
+2. View the list of tasks.
+3. Click on a task to mark it as completed.
+4. Delete tasks using the delete button.
 
 
 
